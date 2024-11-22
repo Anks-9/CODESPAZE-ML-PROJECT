@@ -3,6 +3,8 @@
   analysis to model building, clustering, and hyperparameter tuning. 
   Below is a brief overview of each task:
   
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
 # Task 1: Data Preprocessing and Exploratory Data Analysis (EDA)
   Objective: Clean and explore raw datasets to uncover patterns, trends, and insights.
 # Task 2: Build and Train a Simple Machine Learning Model
